@@ -1,0 +1,16 @@
+# JetBrains IDE (PyCharm, IntelliJ)
+.idea/
+*.iml
+*.ipr
+*.iws
+
+__pycache__/
+.DS_STORE
+.DS_Store
+*.egg-info
+
+build/
+dist/
+logs/
+configs/qm9_temp.yml
+
